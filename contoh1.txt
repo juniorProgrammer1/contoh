@@ -1,5 +1,5 @@
 saya ada buku
 buku saya cantik
 saya sayang awk
-<<<<<<< HEAD
 saya silap....
+
